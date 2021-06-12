@@ -13,6 +13,9 @@ app.get("/", (req, res) => {
   res.send("Amigo, funciona");
 });
 
+app.get("/about", (req, res) => {
+  res.json(about);
+});
 app.get("/portfolio", (req, res) => {
   res.json(portfolio);
 });
