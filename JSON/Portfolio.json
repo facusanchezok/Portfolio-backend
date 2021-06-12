@@ -1,13 +1,13 @@
 [
     {
         "name": "Proyecto 1",
-        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV",
         "image": "https://i.ibb.co/Y33nvTq/69808620-1114576372075475-1885303219161137152-n.jpg",
         "link" : "https://drive.google.com/file/d/1YDloVYz0XUynIoD3pL6OYnRNSApL1Z1B/view?usp=sharing"
     },
     {
         "name": "Proyecto 2",
-        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV",
         "image": "https://i.ibb.co/Y33nvTq/69808620-1114576372075475-1885303219161137152-n.jpg",
         "link": "https://drive.google.com/file/d/1YDloVYz0XUynIoD3pL6OYnRNSApL1Z1B/view?usp=sharing"
     }
